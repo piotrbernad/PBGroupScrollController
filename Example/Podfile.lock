@@ -1,0 +1,14 @@
+PODS:
+  - PBGroupScrollController (0.1.0)
+
+DEPENDENCIES:
+  - PBGroupScrollController (from `../`)
+
+EXTERNAL SOURCES:
+  PBGroupScrollController:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PBGroupScrollController: a1d82f5fa58f261cb488f53ed7988f221e241275
+
+COCOAPODS: 0.28.0

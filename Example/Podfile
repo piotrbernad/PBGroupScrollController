@@ -1,5 +1,1 @@
 pod "PBGroupScrollController", :path => "../"
-
-target "Example” do
-end
-
