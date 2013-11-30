@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFE9DC54-BF34-4C04-BACF-D34E0A40AC92</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Example</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52EDB18E-9D32-4AAC-93BD-3741E900D94A</key>
+		<string>ssh://github.com/piotrbernad/PBGroupScrollController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example/Example/Example.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52EDB18E-9D32-4AAC-93BD-3741E900D94A</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/piotrbernad/PBGroupScrollController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52EDB18E-9D32-4AAC-93BD-3741E900D94A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52EDB18E-9D32-4AAC-93BD-3741E900D94A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-pbgroupscrollcontroller</string>
+		</dict>
+	</array>
+</dict>
+</plist>
