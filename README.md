@@ -1,13 +1,14 @@
 # PBGroupScrollController
 
-[![Version](http://cocoapod-badges.herokuapp.com/v/PBGroupScrollController/badge.png)](http://cocoadocs.org/docsets/PBGroupScrollController)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/PBGroupScrollController/badge.png)](http://cocoadocs.org/docsets/PBGroupScrollController)
+Controller that allows great user experiance when scrolling CollectionView down and up. Instead of classic scrolling it offers scroll whole page.
 
 ## Usage
 
 To run the example project; clone the repo, and run `pod install` from the Project directory first.
 
 ## Requirements
+
+Minimum iOS version: 6.0.
 
 ## Installation
 
@@ -18,7 +19,7 @@ it simply add the following line to your Podfile:
 
 ## Author
 
-piotrbernad, piotr.bernad@appunite.com
+Piotr Bernad, piotrbernadd@gmail.com
 
 ## License
 

@@ -1,7 +1,5 @@
 pod "PBGroupScrollController", :path => "../"
 
-target "Demo" do
+target "Example” do
 end
 
-target "DemoTests" do
-end
