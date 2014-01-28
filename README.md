@@ -1,6 +1,6 @@
 # PBGroupScrollController
 
-Controller that allows great user experiance when scrolling CollectionView down and up. Instead of classic scrolling it offers scroll whole page. Inspired by Feedly app.
+Controller that allows great user experience when scrolling CollectionView down and up. Instead of classic scrolling it offers scrolling the whole page. Inspired by Feedly app.
 
 ![image](http://cl.ly/image/2i0H021a1e2I/2.png)
 
