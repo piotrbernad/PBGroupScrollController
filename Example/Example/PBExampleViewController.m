@@ -37,10 +37,6 @@ static NSString *kCellIdentifier = @"CellIdentifier";
     return cell;
 }
 
-- (NSArray *)currentlyVisibleItems {
-    return [self itemsForPage:self.collectionViewController.currentPage];
-}
-
 #pragma PBGSDataSource
 
 - (NSArray *)itemsForPage:(NSInteger)page {
